@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+ll<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- App name part -->
     <string name="app_name">PojavLauncher (Minecraft: Java Edition for Android)</string>
@@ -103,7 +103,7 @@
     <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (all versions, fast)</string>
     <string name="mcl_setting_renderer_vgpu">vgpu - (up to 1.16.5, fast)</string>
     <string name="mcl_setting_renderer_vulkan_zink">Vulkan Zink (all versions, mid)</string>
-    <string name="mcl_setting_renderer_angle">ANGLE - (release 1.17+, slow)</string>
+    <string name="mcl_setting_renderer_angle">ANGLE - (release 1.17+, mid)</string>
     <string name="mcl_setting_category_veroption">Version type will be in version list</string>
     <string name="mcl_setting_veroption_release">Release</string>
     <string name="mcl_setting_veroption_snapshot">Snapshot</string>
